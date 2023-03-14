@@ -1,0 +1,17 @@
+051135593, Maria White, English, SR, 21
+060839453, Charles Harris, Architecture, SR, 22
+099354543, Susan Martin, Law, JR, 20
+112348546, Joseph Thompson, Computer Science, SO, 19 
+115987938, Christopher Garcia, Computer Science, JR , 20
+112348546, Database Systems
+115987938, Database Systems
+348121549, Database Systems
+322654189, Database Systems
+552455318, Database Systems
+
+
+
+--q3
+115987938, codd1970
+115987938, tods76chen
+320874981, cacm2019
